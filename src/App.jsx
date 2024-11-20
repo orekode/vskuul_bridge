@@ -14,6 +14,8 @@ function App() {
         <Route path="/courses"      element={<Pages.Courses   />}     />
         <Route path="/exams"        element={<Pages.Exams     />}     />
         <Route path="/contact"      element={<Pages.Contact   />}     />
+        <Route path="/register"     element={<Pages.Register  />}     />
+        <Route path="/schools"      element={<Pages.Schools   />}     />
 
 
       </Route>
